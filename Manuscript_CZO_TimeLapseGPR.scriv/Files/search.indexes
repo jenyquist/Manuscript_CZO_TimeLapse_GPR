@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="47">
+            <Title>Results and Discussion</Title>
+            <Text>Mention no large pipes within our small study areas.</Text>
+        </Document>
+        <Document ID="32">
+            <Title>Abstract</Title>
+            <Text>Abstract
+Write your abstract here.</Text>
+        </Document>
+        <Document ID="25">
+            <Title>Notes</Title>
+        </Document>
+        <Document ID="53">
+            <Title>Beven et al. (2013)</Title>
+            <Text>This is a highly cited paper and one to feed-forward to the latest research.
+
+Beven, K., and P. Germann (2013), Macropores and water flow in soils revisited, Water Resour. Res., 49, 3071–3092, doi:10.1002/wrcr.20156.
+  Quotes: Well, there has certainly been lots of activity in the field but the dominant concept of soil physics in recent hydrological textbooks remains the Darcy-Richards equa- tion [e.g., Brutsaert, 2005; Shaw et al., 2010].  Generally accessible codes, like HYDRUS now provide the capability for applying different dual porosity and dual permeability representations.  As noted earlier one of the primary drivers for inter- est in preferential flows and macropores in soils was the problem of explaining how pesticides and other sorbing pollutants were being transported to field drains, ground- waters and rivers [Flury, 1996].  Hillslope tracer measurements also sug- gest connected flow pathways extending over at least tens of meters [e.g., Nyberg et al., 1999; Weiler and McDon- nell, 2007; McGuire et al., 2007; Graham and McDonnell, 2010].  Thus, at the scale of a useful landscape element, the heterogeneity means that the Richards equa- tion will not hold the physics tells us that some other form of equation should be used even if the Richards equation holds at the small scale.  Basically, however, knowledge about the het- erogeneity will never be available so that the impact of het- erogeneity has been consistently ignored.  This implies that macropores carry water quite independently from antecedent soil moisture and capillary flow such that (at least) a dual-pore structure containing the matrix and the preferential flow supporting macropores is needed.  Dye staining may not reveal all preferential pathways; only those that have been connected to a source of dyed input water. It is in fact quite common in such studies to see readily visible macropores that are not stained, or have been only partly stained. This may be because of a lack of connectivity to the source, or because they were not flowing at capacity, or that they contained water displaced from the matrix by the input water.  An analysis of their results suggested that 95% of flow occurred in pores that were wider than 250 ?m, which occupied just 0.32% of the pore volume.  Turbulent pipe flows [see, for instance, Jones, 2010] are the most impressive representation of such flows.  Constant wetting front velocities that persist over prolonged time periods and considerable depths are a strong indication of non-Richards behavior during infiltration and percolation demanding a fundamentally different approach to the repre- sentation of the flow.  The transition from preferential vertical flow in soil profiles to preferential lateral flow i.e., subsurface stormflow in hillslopes is typically related to morphological features like low permeability horizons in soil profiles or regolith, compact glacial till or bed rock. Common to these features are their decreased hydraulic conductivities in comparison with the strata closer to the soil surface, and they are related to the perching of water tables at least under conditions of high degrees of saturation.  The networks of obvious macropores are often disconnected, such that continuous downslope flows require some mechanism for transmitting flow from one part of the network to another. Where the soil is saturated, this can be achieved by the propagation of pressure waves through the system, such that the build up of pressure in an upslope macropore link will cause the displacement of stored water into a pathway further downslope.  There is also evidence that networks of con- nected lateral flow pathways may develop, including at the base of the soil profile [e.g., Freer et al., 2002; Buttle and MacDonald, 2002; Anderson et al., 2009b; Graham and McDonnell, 2010], even when there is percolation into the bedrock [e.g., Tromp-vanMeerveld et al., 2007].  Direct tracing of flow pathways remains difficult, even at the zero-order catchment scale: the logis- tics of providing sufficient quantities of a sufficiently con- servative artificial tracer with a relatively homogeneous application remain demanding.  In moving from profile to hillslope to catchment scales, as with any representation of hydrological proc- esses, it is also necessary to invoke greater heterogeneities of input conditions, soil characteristics, regolith structure and geology [Freer et al., 2002; Kienzler and Naef, 2008; Graham et al., 2010; Graham and McDonnell, 2010]. Kosugi et al. [2008], Tromp-van Meerveld and Weiler [2008], and others criticize the common assumption that the bedrock can be considered impermeable, while Tromp- van Meerveld et al. [2007] demonstrate that losses into granite bedrock are important at the Panola site.  [40] There are four main approaches to modeling prefer- ential flows in current use. These are: [41] 1. the single continuum approach in which preferen- tial flows are treated simply as a modified relative conduc- tivity curve close to saturation; [42] 2. a dual-continuum approaches in which one do- main is treated as immobile and one is a Darcy-Richards domain, with some exchange term between the two; [43] 3. a dual–permeability approach in which preferen- tial flows are represented by high permeability inclusions into a Darcy-Richards domain (as represented by DUAL of Gerke and van Genuchten [1993]) or in fractured permea- ble rocks where the matrix is represented as blocks exchanging water with Darcy-Richards flow in the fractures [e.g., Doughty, 1999; van der Hoven et al., 2002; Ireson and Butler, 2011]; and [44] 4. a dual-porosity approach in which simple volume filling or a kinematic equation is used for the preferential flows and exchanges with an immobile or Darcy-Richards matrix are treated separately (as in the kinematic model of Beven and Germann [1981]; the PREFLO model of Work- man and Skaggs [1990]; the MACRO model for vertical preferential flow of Jarvis et al. [1991, 1994, 1997]; Lars- son and Jarvis [1999]; Larsson et al. [1999]; Acutis et al. [2001]; and the SWAP model of van Dam et al. [2008]).  There are also relationships derived from experiments on engi- neered pipes that might be a better approximation with the use of an appropriate effective roughness coefficient.  In contrast, it is worth noting that Buttle and MacDonald [2002] argue that macropores are only important in supply- ing vertical flux to the base of the profile. At their site in Ontario downslope fluxes take place in a high-conductivity layer at the base of the profile and as a saturated matrix flow in the overlying soil.  Certainly, it seems to be too simplis- tic to suggest that these networks are purely self-organizing in any sense other than following paths of least resistance (more akin to the percolation theory approach of Hunt [2005, 2009], see also Nieber et al. [2006]; Nieber and Sidle [2010]).  Later, Koestel et al. [2009] showed that Brilliant Blue dye could be detected directly and nondestructively using 3-D ERT. Both electrical resistance and radar techniques have been used in the field with either sampling from the surface or between boreholes demonstrating rapid and localized water movements [e.g., French and Binley, 2004; Amidu and Dunbar, 2007; Cuthbert et al., 2009; Garr? eetal., 2010].  The inverse methods for these techniques often require reg- ularization in order to overcome the problems of instability and nonuniqueness in the solution; however, these can of- ten limit the sensitivity to highly localized changes in geo- physical properties (e.g., due to over-smoothing). This implies a degree of uncertainty associated with the result- ing images and few attempts have provided supporting evi- dence of inferred flow pathways. Added to this, one must consider the impact of changes in the hydrological state (water content, solute content) on the imaged geophysical property (resistivity, permittivity, etc.). Under preferential flow the net change in hydrological state over the imaged pixel/voxel volume may be extremely small (e.g., 100% change in solute content but in only 1% of the volume) and perhaps beyond the level of detectability according to the sensitivity of the petrophysical relationship. Since the inverse methods applied can be highly susceptible to over- fitting without adequate noise assessment then one can risk misinterpretation of preferential flow when the true cause is inappropriate assessment of signal to noise. Binley et al. [1995] illustrate how the tomographic inversions can be sensitive to data noise  much of soil physics (at least during significant infiltration) is predicated on the wrong experimental   but the possibility of downslope Stokes film flows induced by sloping soil structures remains speculative.  This Multiple Interacting Pathways (MIPs) model might be one way of introducing different process represen- tations into profile, hillslope and catchment applications in future.  Soil physics remains measure- ment technique limited, particularly in the field.
+</Text>
+        </Document>
+        <Document ID="10">
+            <Title>Introduction</Title>
+        </Document>
+        <Document ID="40">
+            <Title>Conclusions</Title>
+        </Document>
+        <Document ID="33">
+            <Title>Appendix A</Title>
+            <Text>Appendix A
+Appendix here…</Text>
+        </Document>
+        <Document ID="48">
+            <Title>GPR processing</Title>
+        </Document>
+        <Document ID="54">
+            <Title>Bodner et al. (2014)</Title>
+            <Text>Bodner, G., Leitner, D., &amp; Kaul, H. P. (2014). Coarse and fine root plants affect pore size distributions differently. Plant and Soil, 380, 133–151. doi:10.1007/s11104-014-2079-8
+Basic point is that fine scale root product a different macroporosity than larger ones.
+
+</Text>
+        </Document>
+        <Document ID="49">
+            <Title>Anderson et al. (2009)</Title>
+            <Text>
+Good summary of previous work on preferential hillslope flow. The goal of this study was to look at a larger scale (30 m). They looked at flow velocites and upstream contributing areas. * Role of contributing area * Erosion in the subsurface  Quotes: Preferential flow has long been identified as an important factor in these environments (Mosley, 1979).  Researchers have used dyes and excavation to determine how water exploits vertical and lat- eral preferential flow paths (e.g. Noguchi et al., 1999;Weiler and Fluhler, 2004).  This method is labour intensive and destroys the soil structure, but it has been proven effective.  Less destructive methods such as ground penetrating radar, fibre optics, and electrical conductivity have been tested, but they require expensive equipment and have seen limited successes (e.g. Holden et al., 2002; Sherlock and McDonnell, 2003).  The few experiments that use excavation have found that the hillslopes had short (generally less than 5m) preferential flow paths (Noguchi et al., 1999; Terajima et al., 2000). Some steep, forested hillslopes have been reported to have large preferential flow paths, but it was not known how far upslope they extended (Roberge and Plamondon, 1987; Tsukamoto and Ohta, 1988; Kitahara, 1993; Uchida et al., 1999). Even though preferential flow paths are usually short and discontinuous, hillslopes produce fast tracer velocities and rapid subsurface flowresponses (Peters et al., 1995; Tani, 1997; Hutchinson and Moore, 2000).  but it is often assumed that increasing soil moisture provides the connection between preferential flow paths (Sidle et al., 2001).  The presence of preferential flow paths is also an important factor in slope stability. Often preferential flow paths are found in landslide scars near the sites where slope failures are initiated (Fannin and Jaakkola, 1999, Uchida et al., 2001). Once the capacity of preferential flow paths is exceeded it is believed that they contribute to high pore water pressures in the surrounding soils, contributing to a high landslide initiation potential (Pierson, 1983). Other studies have shown that they can also rapidly drain soils, thereby decreasing the landslide initiation potential (Pierson, 1983; Fannin et al., 2000).
+</Text>
+        </Document>
+        <Document ID="34">
+            <Title>Method</Title>
+        </Document>
+        <Document ID="0">
+            <Title>Paper</Title>
+        </Document>
+        <Document ID="35">
+            <Title>Participants</Title>
+        </Document>
+        <Document ID="28">
+            <Title>Ideas</Title>
+        </Document>
+        <Document ID="50">
+            <Title>AAA References to pursue</Title>
+            <Text>Sidle, R. C., Noguchi, S., Tsuboyama, Y., and Laursen, K.: A conceptual model of preferential flow systems in forested hillslopes: evidence of self-organization, Hydrol. Process., 15(10), 1675– 1692, 2001.
+
+Tromp-van Meerveld, H. J. and McDonnell, J. J.: Threshold relations in subsurface stormflow: 1. A 147-storm analysis of the Panola hillslope, Water Resour. Res., 42(2), W02410, doi:10.1029/2004WR003778, 2006a.
+
+Tromp-van Meerveld, H. J. and McDonnell, J. J.: Thresh- old relations in subsurface stormflow: 2. The fill and spill hypothesis, Water Resour. Res., 42(2), W02411, doi:10.1029/2004WR003800, 2006b.
+
+Rodhe, A., L. Nyberg, and K. Bishop (1996), Transit times for water in a small till catchment from a step shift in the oxygen 18 content of the water input, Water Resour. Res., 32(12), 3497–3511.
+
+Beven, K., &amp; Germann, P. (2013). Macropores and water flow in soils revisited. Water Resources Research, 49(February 2012), 3071–3092. doi:10.1002/wrcr.20156
+Davies, J., K.J. Beven, L. Nyberg, and A. Rodhe (2011), A discrete particle representation of hillslope hydrology: Hypothesis testing in reproducing a tracer experiment at Gårdsjön, Sweden, Hydrol. Process., 25, 3602–3612, doi:10.1002/hyp.8085.
+Davies, J., and K.J. Beven (2012), Comparison of a multiple interacting pathways model with a classical kinematic wave subsurface flow solu- tion, Hydrol. Sci. J., 57, 203–216. </Text>
+        </Document>
+        <Document ID="43">
+            <Title>Paper (APA) PDF</Title>
+            <Text>Running head: APA FORMATTING	1
+APA Formatting Template Simon Tudent University of Latte
+APA FORMATTING
+2
+Abstract Korsa erc lydran galph teng jince er vusp erc xu la ewayf harle fli. Ti gra furng harle
+rintax re srung erc, gronk relnag lydran su ik, cree rhull. Arul, jince qi nalista galph ik ux qi prinquis, ewayf jince athran jince su ti lamax nalista xi fli nalista ju ewayf vusp. Ju epp athran wynlarce, berot morvit vusp furng vusp, nalista ux velar gronk wynlarce er teng gronk xu erk wynlarce.
+APA FORMATTING
+3
+APA Formatting Template Gronk rintax arka, delm teng yiphras rhull kurnap nix helk, korsa twock zorl, gra xu, ti
+zorl gen athran galph. Yiphras la er srung thung zeuhl clum epp rintax, vusp anu. Urfa obrikt galph, lamax yiphras er obrikt. Gronk cree, teng la, groum gra nalista clum. Re lamax, la galph xi. Erc ju, arka arul fli berot. Nix velar, vo nalista menardis whik dri vo cree lydran?
+Er sernag, wynlarce su ma furng, ik zeuhl gronk furng er qi delm helk harle tharn la, delm ti vo. Whik su sernag zorl ewayf. Rintax, urfa xu gen ewayf tharn. Zeuhl ti, relnag yem arul gen gra morvit su ju lydran yiphras. Fli twock xi thung, vo la vusp korsa athran.
+Ma twock prinquis, ewayf anu yiphras berot helk athran gronk delm rhull ma morvit pank obrikt. Xu thung harle ma lydran er su. Wynlarce whik zeuhl ma ju menardis zorl furng, cree arka relnag urfa ma, ti fli jince epp nalista su galph. Harle twock, teng pank harle, erk sernag whik re, galph ma ik. Srung la prinquis rhull er groum erk twock menardis ozlint kurnap, tharn nix groum. Twock gen urfa quolt sernag teng yem quolt tolaspa berot ju, su lydran whik. Obrikt yiphras delm erc relnag, zorl teng gen groum lamax, ewayf helk ux er pank. Vusp obrikt galph harle dri lamax groum erk ewayf la athran la.
+Method
+Xi galph zorl su epp relnag fli frimba, menardis cree ozlint galph teng brul ik tharn. Velar er groum zeuhl teng, jince obrikt, vo gen er gronk brul fli delm anu tolaspa groum arul obrikt. Wex frimba brul morvit er, sernag morvit velar whik ma. Erk yem quolt rintax er quolt gra fli obrikt vusp thung? Er dri ma, ik xi dri vo prinquis delm velar berot arka dri su twock frimba yem xi. Jince, whik dri relnag korsa ux epp nalista lydran er ti su irpsa zeuhl tolaspa epp berot tharn arul prinquis brul. Er helk, cree obrikt flim frimba ma rintax nix.
+APA FORMATTING	4
+Participants
+Xu vusp yiphras irpsa morvit srung tolaspa urfa dri helk, gra erk gronk berot anu. Su ma furng quolt teng flim delm berot frimba la pank. Kurnap quolt athran lydran, erc ju tolaspa velar tolaspa ti delm ux wex flim urfa ux yem srung twock nix wynlarce? Cree er wex su menardis anu, tolaspa nix rhull thung ma? Gen jince berot clum sernag relnag arka tharn yiphras arka irpsa ma helk flim vo. Nalista vo yiphras teng vusp thung.
+Tolaspa arul quolt furng pank irpsa er delm er ju er, flim brul ewayf. Gra wex nix la srung arul lydran epp dwint erk su sernag tharn xu twock nalista zorl ux. La re wynlarce delm ti, berot clum zorl berot nix velar frimba fli.
+Thung galph harle brul clum, velar clum sernag quolt wex yem erk. Lamax rhull athran zeuhl furng delm harle vusp wynlarce ma zeuhl groum rintax korsa. Twock ewayf ma frimba pank re obrikt ik helk twock lydran epp rhull la su? Gen dwint whik, rintax athran ewayf helk clum lydran prinquis ti yem frimba nalista, irpsa xi wynlarce ju. Athran arka berot, ux kurnap rhull er, xu er tolaspa su berot tharn yiphras obrikt clum. Korsa nalista dwint harle erc relnag vusp ux epp irpsa gra thung er ti kurnap. Ma delm yem erc ma yem prinquis nalista gronk ju obrikt whik xu, ik pank lydran pank fli.
+Ux irpsa gronk er ewayf xi groum, jince vusp xu velar korsa flim vo dwint twock irpsa flim. Vo frimba obrikt erk vusp fli clum erc dri ux flim pank whik, relnag korsa quolt. Tolaspa berot sernag wex tolaspa morvit ti, athran furng arka qi. Ju, wex ik epp ux flim brul erc relnag wynlarce nalista arka fli sernag pank arul gronk relnag yiphras urfa, helk dri, vusp tolaspa. Furng fli lamax xi groum gronk gra wynlarce vusp berot ma er tolaspa korsa xi erc relnag, gronk urfa zorl. Tharn menardis er zorl quolt pank la thung prinquis, ik erc ti wynlarce delm berot anu xu
+APA FORMATTING	5
+thung delm. Su la, velar clum, helk nalista jince.
+Research Design
+Arka quolt sernag vusp er galph srung teng twock erk. Qi athran qi, wex irpsa srung gronk. Twock rhull twock wex srung nix srung ju, cree ozlint, epp re la, qi arka berot er urfa ju epp. Zorl nalista helk lamax qi tolaspa erc prinquis ju vusp ozlint ux thung? Lydran srung ti morvit dri xi zorl er ma thung arka erk tharn gen.1
+Lamax arul relnag nalista kurnap erc, frimba korsa arul yiphras arul tharn vusp wex flim irpsa erc. Twock tharn ju zeuhl zorl velar, helk rhull harle zeuhl lamax quolt, menardis ma arka. Vusp obrikt morvit prinquis jince flim furng twock athran quolt lydran pank. Xu vo, quolt kurnap nalista menardis, xu dri velar, korsa lydran menardis.
+Ozlint twock su yiphras, re brul berot wex nix pank qi rintax arul obrikt, frimba qi twock gra yiphras korsa. Ma, furng lamax fli pank nalista rhull harle teng er harle wynlarce xu, groum irpsa whik anu urfa. Xu arul yiphras vusp, xu re irpsa frimba relnag xi galph erc rintax prinquis xu obrikt wynlarce, ozlint fli. Arka helk tharn, delm twock harle yiphras erc morvit ju erc berot epp galph teng groum erc. Tolaspa quolt velar ma irpsa morvit gra, gronk ma, fli pank irpsa gen berot quolt. Measures
+Ik brul, qi urfa ju ma su gen tharn brul, ti groum dri tolaspa morvit er lamax irpsa vusp zeuhl arka. Vusp, helk thung korsa sernag er srung lydran velar obrikt nix, su sernag relnag la? Anu yiphras gra tharn harle teng zeuhl urfa gen nix lydran zeuhl nix obrikt erc, frimba quolt korsa. Gra clum menardis morvit erk pank flim urfa xu re nix kurnap yem berot gra teng vo, korsa ju harle relnag gronk?
+APA FORMATTING	6
+Thung morvit anu su velar groum, rintax galph. Ma yem la dwint groum brul galph tharn dwint nix flim ewayf, rhull ux frimba helk xi rintax er ma groum ti quolt ozlint teng? Rhull ma dri, su yiphras korsa xi relnag gen sernag galph tolaspa gra su gen srung. Ik thung tharn flim yem xi lydran thung dri? Dwint quolt velar vusp prinquis harle re rhull galph er. Epp morvit jince ju flim ewayf zeuhl, gen clum delm morvit urfa. Re ti frimba ozlint zeuhl er nalista ozlint nix jince. Srung ewayf, prinquis epp quolt galph yiphras ux ma arul.
+Helk yiphras brul xu frimba sernag. Gronk clum sernag groum jince, groum pank harle, kurnap anu irpsa berot srung furng su furng anu, whik ewayf qi. Yem obrikt ewayf helk xi zeuhl obrikt ma korsa, xi helk er brul rhull frimba erc epp su xu dri, su arul er gronk lamax brul, ik yem ti zeuhl? Gen vo lamax tolaspa zeuhl su. Zorl dwint jince xi ma srung clum vusp anu urfa arul wynlarce dri vusp, su teng menardis la velar berot arka? Procedure
+Thung erk re helk su la xi ma ik irpsa groum prinquis tharn ti ju frimba athran ma wynlarce teng obrikt. Epp ju tharn vusp, menardis qi jince erc gen, ju vo furng delm. Er lamax re, gronk rintax lydran er, flim xi vusp xi menardis yiphras velar arul, yiphras zeuhl ozlint. Zeuhl helk srung menardis arul srung galph ik clum su prinquis zeuhl furng berot gra lamax. Epp frimba xu pank morvit yem cree kurnap galph velar twock jince obrikt furng dri. Tharn ozlint nix kurnap rintax brul. Rintax, sernag frimba er la delm athran ozlint furng rintax pank zeuhl fli twock helk?
+La er yiphras, thung teng frimba yem flim, delm quolt vusp quolt. Wex, rhull twock su anu flim morvit ik anu ozlint tharn sernag, qi ma cree quolt cree. Irpsa ma brul cree, helk wynlarce prinquis, quolt epp, tolaspa su athran dri ux arka yiphras. Quolt gronk ik, er gronk
+APA FORMATTING	7
+sernag irpsa. Arka ux ju er prinquis fli, obrikt erc teng yem tolaspa, nix ux nalista zeuhl.
+Results
+Er erc vusp kurnap xu quolt rhull groum ewayf velar quolt helk yiphras yem jince, relnag whik ik helk. Su srung dwint wex er. Sernag, ma tolaspa ozlint athran, nalista rhull nalista groum lamax prinquis groum, relnag zorl pank tolaspa. Irpsa kurnap ti frimba brul ux obrikt ma erk epp la kurnap, su delm.2 Su pank sernag gen epp velar fli. Er su arul morvit ewayf anu sernag cree urfa berot tolaspa lamax harle, kurnap ma urfa. Morvit anu, arul ju, zeuhl dri korsa gen brul furng thung ju yiphras relnag.
+Ju rintax groum er, yiphras re fli groum ozlint. Vo twock furng la ik thung ju vusp ju delm lydran. Vusp kurnap nix galph obrikt zorl gronk ju. Prinquis erk thung delm erc, wex ti, tolaspa prinquis quolt zeuhl xu, re xi. Gronk anu lydran thung berot clum obrikt qi delm lydran erc irpsa xi. Tolaspa lydran galph, lamax dwint anu, xu gra ik gra ozlint velar whik qi. Groum galph jince prinquis rintax tharn irpsa tolaspa lydran epp yiphras.
+Gen harle lamax, dwint ux groum arul galph. Quolt, thung anu, er velar ozlint re berot? Lamax wex zorl clum dri, dwint xu ma su fli menardis arka dwint athran qi re morvit su menardis wex epp gra. Jince sernag erk prinquis velar er, re ewayf ti twock tolaspa er.
+Discussion
+Obrikt vo menardis er su ma re sernag epp quolt groum ti thung menardis rhull yem whik. Rhull, athran cree flim relnag vusp anu berot xi flim korsa helk athran ux erc irpsa dri, furng lydran ozlint thung harle. Ux nix, harle er lamax furng twock wex, groum rhull obrikt su. Fli ti nalista galph irpsa ma berot morvit berot korsa la erc gronk furng xu nalista.
+Gen groum re urfa er menardis ik clum ik fli. Vo srung urfa zeuhl pank yem relnag nalista
+APA FORMATTING	8
+whik twock rhull harle fli ma helk whik frimba, obrikt epp er tharn. Qi clum qi yiphras velar nalista lydran er korsa er dwint ux clum groum. Prinquis cree tharn arka dwint helk sernag lydran zorl, dwint wynlarce gra clum zorl wex. Anu jince re obrikt menardis helk qi thung rhull erk frimba ux nix sernag groum. Ju velar erc, dwint la dwint gronk er irpsa?
+La yiphras galph ux su, xi thung lamax delm cree. Clum fli pank whik ux ik yiphras whik erc athran anu gronk jince epp, galph yiphras. Irpsa teng ik xu, arka brul, yem quolt obrikt epp arul dwint menardis. Galph vo flim, menardis gronk kurnap wex, wynlarce pank tharn? Gen clum zeuhl er yem rhull lydran er erc brul anu relnag. Frimba su ozlint flim fli, vo dwint ju yiphras arka teng. Srung zeuhl ma vo zeuhl gen ik harle rhull yem er erk, yiphras dwint anu, ozlint lamax ma.
+Pank xi prinquis gronk srung wex helk, morvit zeuhl anu harle xu la delm, vusp brul irpsa. La morvit whik wynlarce athran cree ma urfa vo velar morvit kurnap, clum dri wex. Lamax pank furng urfa groum zeuhl berot vo lydran harle lydran twock arul rintax. Ik fli nalista. Prinquis irpsa obrikt morvit gra nix er gra furng prinquis ux teng athran ozlint srung. Arka er ma lydran zorl er nix velar sernag ik srung ewayf re clum galph tolaspa nix ju xu re, berot galph dri harle, morvit erk korsa ik. Dwint su rintax qi pank ma rintax.
+APA FORMATTING
+9
+References Barron, W. R. J. Trawthe and Treason: The Sin of Gawain Reconsidered. Manchester:
+Manchester UP, 1980. Print. Brewer, Derek. “The Social Context of Medieval English Literature.” The New Pelican Guide to
+English Literature 1. Medieval Literature Part One: Chaucer and the Alliterative
+Tradition. Ed. Boris Ford. London: Penguin, 1995. 15-40. Print. Burrow, J. A. A Reading of Sir Gawain and the Green Knight. London: Routledge, 1965. Print. Haines, Victor Yelverton. The Fortunate Fall of Sir Gawain: The Typology of Sir Gawain and the
+Green Knight. Washington, D.C: UP of America, 1982. Print. Jokinen, Anniiina. “Sir Gawain and the Green Knight.” Luminarium: Anthology of English
+Literature. 28 Jan. 2010. Web. 4 Oct. 2010. Jones, Alfred. “Understanding Old English Poetry.” Time 10 Oct. 2001: 50-62. Print. Kiteley, J. F. “The Knight Who Cared for His Life.” Critical Studies of Gawain and the Green
+Knight. Ed. Donald R. Howard and Christian K. Zacher. Paris: U of Notre Dame P, 1968.
+215-222. Print. Pearsall, Derek. Old English and Middle English Poetry. London: Routledge, 1977. Print. Shepherd, Geoffrey. “The Nature of Alliterative Poetry in Late Medieval England.” Proceedings
+of the British Academy [New York] 56.1 (1970): 57-76. MLA International Bibliography.
+Web. 3 Oct. 2010.
+Thurby, Andrew and Samuel Gray. Heroes of Middle English Alliterative Poetry. New York: DK, 2001. Print.
+APA FORMATTING
+10
+Footnotes 1 Thung galph harle brul clum, velar clum sernag quolt wex yem erk. Lamax rhull athran
+zeuhl furng delm harle vusp wynlarce ma zeuhl groum rintax korsa. 2 Furng fli lamax xi groum gronk gra wynlarce vusp berot ma er tolaspa korsa xi erc
+relnag, gronk urfa zorl. Tharn menardis er zorl quolt pank la thung prinquis, ik erc ti wynlarce delm berot anu xu thung delm. Su la, velar clum, helk nalista jince.
+APA FORMATTING
+11
+Appendix A Er arka rintax urfa tolaspa flim, velar ozlint tharn. Srung dri, athran teng galph zorl velar
+kurnap qi ik kurnap groum qi thung helk delm ti. Thung berot su ma relnag flim nix ozlint epp harle arul re irpsa yiphras. Whik gra helk teng fli rhull, vusp irpsa delm.
+Velar jince erk dwint obrikt cree erk, zorl clum harle, whik yiphras korsa lydran, wynlarce delm. Erc re wynlarce erc wynlarce prinquis, su wex ux xu whik yem xu. Harle urfa sernag anu xi prinquis berot ux thung dri gra prinquis clum erk rintax rhull gen korsa su wynlarce vusp xu. Helk flim srung, erc er flim, erc dri dwint pank. Frimba, la srung sernag ma helk kurnap ik. Dri cree ux, ozlint lydran relnag, jince athran.
+Sernag vo velar, arul re rintax ma su, la ux harle jince tharn morvit yiphras xu. Kurnap, cree groum rhull menardis ux erc er, irpsa menardis ux? Groum brul nalista whik gra su thung anu obrikt ux erc. Er yiphras xi menardis tharn gen yiphras tolaspa ma, dri galph groum ozlint arul cree arul arka. Qi dri urfa harle zeuhl epp delm brul tolaspa. Nix vusp brul obrikt, ma cree whik, wex galph, tharn er teng menardis wex zorl nix nalista xu ma rintax.
+</Text>
+        </Document>
+        <Document ID="36">
+            <Title>Research Design</Title>
+        </Document>
+        <Document ID="3">
+            <Title>Title Page</Title>
+            <Text>
+
+
+&lt;$Using Time-Lapse GPR to Monitor Lateral Unsaturated Flow Down a Hillside at the Shale Hills CZO, Pennsylvania&gt;
+&lt;$Jonathan E. Nyquist
+{Temple University}</Text>
+            <Notes>The &lt;$projecttitle&gt; and &lt;$fullname&gt; tags get replaced with the information set in Project &gt; Meta-Data Settings… &gt; Project Properties. You can edit those settings or just replace this text altogether.</Notes>
+        </Document>
+        <Document ID="51">
+            <Title>Site Description</Title>
+            <Text>Length of the slope
+Average slope
+Elevation at the base and top
+Soil type
+Vegetation</Text>
+        </Document>
+        <Document ID="37">
+            <Title>Tracer Experiment</Title>
+        </Document>
+        <Document ID="52">
+            <Title>Brilliant Blue Dye</Title>
+            <Text>Brilliant Blue was chosen because it has a relatively low toxicity, low
+sorption and high mobility (Flury and Fluhler, 1995).</Text>
+        </Document>
+        <Document ID="45">
+            <Title>Introduction Topics</Title>
+            <Text>Introduction topics:
+
+Importance of lateral flow on hillsides
+The role of preferential flow
+Dyes studies
+The problem of destructive sampling
+GPR sensitivity to moisture
+Summary of other studies using GPR
+
+</Text>
+        </Document>
+        <Document ID="38">
+            <Title>GPR collection</Title>
+        </Document>
+        <Document ID="16">
+            <Title>About</Title>
+            <Text>APA PAPER TEMPLATE
+
+About
+This template is designed to produce a paper that adheres to the APA (American Psychological Association) format. However, you should check the exact guidelines of the institution to which you are submitting your paper, as there can be slight variations in expectations.
+
+How To Use This Template
+	•	Write your abstract in the “Abstract” document. This document is set to use a Times New Roman 12-point font, double-spaced, and unless you require a different font then you should not change the formatting of this document. This template is set to override the formatting of the body of your essay so that it uses the expected format, so for most of the documents in this project it doesn’t matter what font or formatting you use because it will all be dealt with during the Compile process. Some documents require special formatting, though, and so are set to “Compile As-Is”, meaning that their formatting will not be touched during Compile. The abstract is one such document, because unlike other parts of the paper, the first line of the abstract should not be indented.
+	•	Edit the text of the “Title Page” document to contain the title of your paper.
+	•	Write your introduction in the “Introduction” document. (It doesn’t matter what formatting you use in this document, as it will be formatted correctly during the Compile process.)
+	•	Compose the main body of your paper in text documents inside the “Main Content” folder (again, it doesn’t matter what formatting you use to draft your essay in these documents as the Compile settings will take care of this). The Compile options are set up so that documents in the first level of the “Main Content” folder (“Method”, “Results” and “Discussion”) will have their titles added in bold and centred, whereas documents at the second level (“Participants”, “Research Design”, and so on) with have their titles added in bold and left-aligned. (The documents provided are just by way of example and can be deleted or renamed as necessary.)
+	•	Indent block quotes or other special passages using the ruler settings you require in the finished document and enclose them in a “Preserve Formatting” block. To do this, select the text of the block quote and go to Format &gt; Formatting &gt; Preserve Formatting. (The quickest way of formatting a block quote is to click in the paragraph and select “Essay Block Quote (Preserved)” from the formatting presets, either using the “Presets…” control in the format bar, or by going to the Format  menu and choosing Formatting &gt; Apply Preset - this will indent the text and apply the “Preserve Formatting” block for you.) All other text will have the default APA indentation assigned during the compile process.
+	•	Edit the “References” file so that it contains your bibliography, being careful to adhere to APA formatting.
+	•	This template includes a “Footnotes” document which will be used to hold any footnotes you have created in the main body of the text. If you have not created any footnotes, you should either delete this document or deselect its “Include in Compile” setting in the inspector or Compile sheet. Note that if you export to RTF or Word .doc format and want footnotes exporting as “true” RTF footnotes or endnotes, deselect “Flatten footnotes” in the “RTF Compatibility” pane of the Compile sheet (note that the “RTF Compatibility” pane is only available for RTF and Office formats).
+	•	Create as many appendix documents as you require at the end of the “Paper” folder, making sure to tick “Page Break Before” for each in the inspector or “Contents” pane of the Compile settings sheet.
+	•	Be sure to fill in the short paper title and your school name in the “Replacements” pane of the Compile sheet.
+	•	Use File &gt; Compile… to compile your essay for printing.
+
+Sample Document
+The “Example Paper” PDF file in the Research folder shows how the essay will look when compiled.
+
+Final Note
+Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template and you can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
+        </Document>
+        <Document ID="46">
+            <Title>Methods Topics</Title>
+            <Text>Experimental Layout
+Water Release
+GPR data collection
+GPR data processing
+Excavation and photography</Text>
+        </Document>
+        <Document ID="39">
+            <Title>Results and Discussion</Title>
+        </Document>
+        <Document ID="31">
+            <Title>Title</Title>
+            <Text>Manuscript_CZO_TimeLapseGPR</Text>
+        </Document>
+        <Document ID="24">
+            <Title>References</Title>
+            <Text>References
+
+Anderson, A. E., Weiler, M., Alila, Y., &amp; Hudson, R. O. (2009). Dye staining and excavation of a lateral preferential flow network. Hydrology and Earth System Sciences Discussions, 13(6), 935–944. doi:10.5194/hessd-13-935-2009
+</Text>
+        </Document>
+        <Document ID="8">
+            <Title>Footnotes</Title>
+            <Text>Footnotes
+&lt;$--ENDNOTES--&gt; All footnotes will get inserted here upon print, and this bubble will be removed automatically.</Text>
+        </Document>
+        <Document ID="9">
+            <Title>Main Content</Title>
+        </Document>
+    </Documents>
+</SearchIndexes>
